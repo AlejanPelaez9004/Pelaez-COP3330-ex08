@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac05dfa9-3477-43c5-83bb-61c5e09eb0fd" name="Changes" comment="Complete 2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pelaez/Alejandro/ex08.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Pelaez/Alejandro/ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pelaez/Alejandro/ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pelaez/Alejandro/ex1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,8 +64,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="ex1" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pelaez.Alejandro.ex1" />
+    <configuration name="ex08" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pelaez.Alejandro.ex08" />
       <module name="Pelaez-COP3330-ex01" />
       <extension name="coverage">
         <pattern>
@@ -130,6 +132,9 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Pelaez_COP3330_ex01$ex1.ic" NAME="ex1 Coverage Results" MODIFIED="1630032855145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Pelaez.Alejandro.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Pelaez_COP3330_ex08$ex08.ic" NAME="ex08 Coverage Results" MODIFIED="1630104679276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Pelaez.Alejandro.*</FILTER>
     </SUITE>
   </component>
